@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/ali-pakdel/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-pakdel&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-phi-coral-73.vercel.app/api/top-langs/?username=ali-pakdel&layout=compact&theme=radical" />
 </a>
 
 <!--
