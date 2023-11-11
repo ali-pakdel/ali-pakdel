@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/ali-pakdel/top-langs">
-  <img align="center" src="https://github-readme-stats-phi-coral-73.vercel.app/api/top-langs/?username=ali-pakdel&layout=compact&theme=radical" />
-</a>
+![](https://raw.githubusercontent.com/ali-pakdel/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 <!--
 **ali-pakdel/ali-pakdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
